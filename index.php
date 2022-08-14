@@ -40,7 +40,7 @@ $country = json_decode($data, true);
 
 			<!-- Navbar Header -->
 			<nav class="navbar navbar-header navbar-expand-lg" data-background-color="blue2">
-				<a class="navbar-brand" style="color:white" href="#">Covid-21 Updates</a>
+				<a class="navbar-brand" style="color:white" href="#">Covid-22 Updates</a>
 				<div class="container-fluid">
 					
 					<ul class="navbar-nav topbar-nav ml-md-auto align-items-center">
