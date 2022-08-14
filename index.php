@@ -77,7 +77,7 @@ $country = json_decode($data, true);
 						<div class="col-md-6">
 							<div class="card full-height">
 								<div class="card-body">
-									<div class="card-title">Overall Covid-21 statistics</div>
+									<div class="card-title">Overall Covid-22 statistics</div>
 									<hr>
 									<div class="row">
 										<div class="col-sm-6 col-md-5">
@@ -176,7 +176,7 @@ $country = json_decode($data, true);
 						<div class="col-md-6">
 							<div class="card">
 								<div class="card-header">
-									<h4 class="card-title">Covid-21 (corona virus)</h4>
+									<h4 class="card-title">Covid-19 (corona virus)</h4>
 								</div>
 								<div class="card-body">
 									<ul class="nav nav-pills nav-secondary nav-pills-no-bd" id="pills-tab-without-border" role="tablist">
@@ -418,7 +418,7 @@ $country = json_decode($data, true);
 						</ul>
 					</nav>
 					<div class="copyright ml-auto">
-						2021, <a href="">Mwenda.M</a>
+						2022, <a href="">Mwenda.M</a>
 					</div>				
 				</div>
 			</footer>
